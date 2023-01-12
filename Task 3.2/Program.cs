@@ -10,6 +10,6 @@ else
     Console.WriteLine("y < 0");
 
 if (n == 1 && n == 4)
-    Console.WriteLine("x < 0");
+    Console.WriteLine("x > 0");
 else
     Console.WriteLine("x < 0");
